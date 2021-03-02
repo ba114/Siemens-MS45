@@ -329,7 +329,7 @@ v0.1 by pazi88
      This will typically be the storageaddress and sometimes the size entries. -->
       <romid>
          <internalidaddress>13</internalidaddress>
-         <internalidstring>4570LO00</internalidstring>
+         <internalidstring>4570LO0</internalidstring>
          <xmlid>4570LO00</xmlid>
          <ecuid>4570LO00</ecuid>
          <year>2004</year>
@@ -706,4 +706,5 @@ v0.1 by pazi88
       <table type="X Axis" storageaddress="0x484E4"/>
       <table type="Y Axis" storageaddress="0x48668"/>
     </table>
-   </rom>  
+   </rom>
+</roms>   
